@@ -1,6 +1,6 @@
-Projects from Udemy Course 
+# Projects from Udemy Course 
 
-This repository contains projects that were created in the [Flutter & Dart - The Complete Guide [2023 Edition] course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/). 
+#### This repository contains projects that were created in the [Flutter & Dart - The Complete Guide [2023 Edition] course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/). 
 
 - roll_dice_app
 - quiz_app
@@ -11,4 +11,4 @@ This repository contains projects that were created in the [Flutter & Dart - The
 - favorite_places_app
 - chat_app
 
-Thank you very much Maximilian Schwarzmüller
+### Thank you very much Maximilian Schwarzmüller ❤️
